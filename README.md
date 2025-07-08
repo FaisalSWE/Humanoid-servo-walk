@@ -7,7 +7,7 @@ It performs a basic sweep motion for 2 seconds, then holds all servos at 90°.
 - Arduino Uno R3
 - Breadboard
 - 4 Servo Motors 
-- Jumper wires
+- Wires
 
 ### Servo Pin Mapping:
 | Servo         | Function      | Arduino Pin |
