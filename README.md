@@ -6,7 +6,7 @@ It performs a basic sweep motion for 2 seconds, then holds all servos at 90°.
 ## Hardware Setup
 - Arduino Uno R3
 - Breadboard
-- 4 Servo Motors (SG90 or similar)
+- 4 Servo Motors 
 - Jumper wires
 
 ### Servo Pin Mapping:
