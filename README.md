@@ -18,7 +18,7 @@ It performs a basic sweep motion for 2 seconds, then holds all servos at 90°.
 | Servo 4       | Right Knee    | 9           |
 
 ## Circuit Diagram
-![Circuit Diagram](latching_power_switch_circuit.png)
+![Circuit Diagram](Humanoid_Servo_Arduino_Project_.png)
 ### Power:
 - Servos powered from breadboard rails connected to Arduino 5V and GND.
 
